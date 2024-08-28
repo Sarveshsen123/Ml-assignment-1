@@ -1,4 +1,4 @@
-- Explanation of Harsh ML Assignment 1:
+- Explanation of Sarvesh ML Assignment 1:
 
 - Step 1.Import Necessary Libraries: In python import pandas as pd from sklearn.datasets import load_iris
 
@@ -34,7 +34,7 @@ Details: head() is a DataFrame method that returns the first five rows. This hel
 
 - Details: describe() is a DataFrame method that computes summary statistics such as mean, standard deviation, minimum, and maximum values for numerical columns.This helps in understanding the distribution and range of feature values.
 
-- Explanation of Harsh ML Assignment 2:
+- Explanation of Sarvesh ML Assignment 2:
 
 - Step 1: Import Necessary Libraries In python from sklearn.datasets import load_iris from sklearn.model_selection import train_test_split
 
@@ -71,7 +71,7 @@ Step 2: Load the Iris Dataset IN python iris = load_iris() X = iris.data # Featu
 
 - The print statements output the number of samples in the training and testing sets to the console. This information helps verify that the split was done correctly and gives insight into the size of each dataset.
 
-- Explanation of Harsh ML Assginment 3:
+- Explanation of Sarvesh ML Assginment 3:
 
 - Step 1. *Import necessary libraries:
 
